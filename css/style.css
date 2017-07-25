@@ -16,7 +16,7 @@ body {
 div.board {
     background-color: brown;
     width: 100%;
-    background: pink;
+    background: #eab92d;
     background: -moz-radial-gradient(center, ellipse cover, #eab92d 57%, #c79810 99%);
     background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(57%, #eab92d), color-stop(99%, #c79810));
     background: -webkit-radial-gradient(center, ellipse cover, #eab92d 57%, #c79810 99%);
@@ -30,7 +30,7 @@ div.board {
 div.note {
     height: 150px;
     width: 150px;
-    background-color: yellow;
+    background-color: pink;
     margin: 2px 0;
     position: relative;
     cursor: -webkit-grab;
