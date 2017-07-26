@@ -9,6 +9,9 @@ var Note = React.createClass({
             transform: 'rotate(' + this.randomBetween(-15, 15) + 'deg)'
         };
     },
+    componentDidMount: function(){
+        $(this.getDOMNode()).draggable();
+    },
     randomBetween: function(min, max) {
         return (min + Math.ceil(Math.random() * max));
     },
@@ -114,7 +117,7 @@ var Board = React.createClass({
 });
 
 
-React.render(<Board count={10}/>, 
+React.render(<Board count={50}/>, 
     document.getElementById('react-container'));
 
 
