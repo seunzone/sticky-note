@@ -72,13 +72,7 @@ var Board = React.createClass({
     getInitialState: function() {
         return {
             notes: [
-                'Click on The Add Botton at the top right corner',
-                'Enter and Save To do',
-                'Edit or Delete toDo when you don',
-                'Thanks for Visiting this Page',
-                'I built this Using REACT JS',
-                'Drag To do Around'
-
+                ''
             ]
         };
     },

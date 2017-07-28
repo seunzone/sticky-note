@@ -1,0 +1,23 @@
+{
+  "name": "sticky-note-web-app",
+  "version": "1.0.0",
+  "description": "Built using REACT",
+  "main": "Note.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seunzone/sticky-note.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Seunzone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seunzone/sticky-note/issues"
+  },
+  "homepage": "https://github.com/seunzone/sticky-note#readme"
+}
