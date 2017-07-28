@@ -71,9 +71,7 @@ var Board = React.createClass({
     },
     getInitialState: function() {
         return {
-            notes: [
-                ''
-            ]
+            notes: []
         };
     },
     nextId: function() {
