@@ -1,3 +1,10 @@
 # sticky-note
 This is a one page sticky created by @seunzone
-Do holla if you wanna contribute or improve this repo...Thanks
+View Demo Here: https://seunzone.com/sticky-note
+
+Technologies used in Building this App:
+ReactJS
+jQuery
+Bootstrap
+CSS
+Babel (For compiling JSX to JavaScript.)
